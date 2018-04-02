@@ -4,6 +4,5 @@ Kerbal Space Program came out with the 1.4.2 patch and it came with a few bugs, 
 Watch the video on basic editing of the .cfg files
 https://youtu.be/njvtjLWB8r4 
 
-C:\Program Files (x86)\Steam\steamapps\common\Kerbal Space Program\GameData\Squad\Parts\Utility
-
-landingLegLT-1, landingLegLT-2, landingLegLT-5
+For simple installation, extract the latest zip file in the game directory where the folder GameData resides. 
+It is always recommended to keep a backup of your game data!
